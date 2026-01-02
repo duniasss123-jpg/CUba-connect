@@ -1,0 +1,7 @@
+{
+  "name": "CubaConnect SuperApp",
+  "description": "A high-fidelity fintech and telecommunications management application for users in Cuba, featuring Neo-Glassmorphism design, advanced statistics, and WiFi management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
